@@ -5,11 +5,13 @@ const counter = ref(0);
 const addNum = ref(0);
 
 const add = () => {
+  result.value = 10;
   counter.value++;
 };
 
-const result = computed(() => {
-  return counter.value + counter.value + addNum.value
+const result = computed({
+  get: () => counter.value + addNum.value,
+  set: (val) => (addNum.value = val),
 });
 </script>
 
