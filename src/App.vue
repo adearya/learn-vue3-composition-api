@@ -10,14 +10,19 @@ import { ref, reactive } from "vue";
 
 const label = ref("Biodata");
 const user = reactive({
-  name: "Ade Arya Bimantara"
+  name: "Ade Arya"
 });
 
 const changeName = () => {
-  user.name = "Joya Octaviana";
+  user.name = "Bimantara";
 };
 </script> 
  
 <template> 
+  <RefReactiveToRefs />
+  <Methods />
+  <ComputedGetterSetter />
+  <WatchEffect />
+  <Watch />
   <Props :label="label" :user="user" :changeName="changeName" /> 
 </template>
