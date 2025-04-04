@@ -59,9 +59,7 @@
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
-    <li>vue >= 3.5.12</li>
-    <li>vite >= 5.4.9</li>
-    <li>vitejs/plugin-vue >= 5.1.4</li>
+    <li>npm >= 11.0.0</li>
     <!-- add_prerequisites -->
 </ul>
 
