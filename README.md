@@ -9,7 +9,7 @@
 
 <h3 align="center">Learn Vue3 Composition API</h3>
     <p align="center">
-        I created this project as a hands-on approach to learning the Vue 3 Composition API, focusing on core concepts without additional styling or UI elements.
+        I created this project as a way to practice Vue 3 Composition API concepts in the most minimal and distraction-free environment.
     </p>
 </div>
 
@@ -41,7 +41,7 @@
 ![App Screenshot](https://raw.githubusercontent.com/adearya/learn-vue3-composition-api/HEAD/raw/images/desktop_screenshot.png)
 
 <p align="center">
-    This project explores the Vue 3 Composition API in a simple, text-based environment. It helps in understanding reactivity, lifecycle hooks, and component structure without UI distractions.
+    This project uses Vue 3 to explore reactive state, lifecycle hooks, and logic reuse through the Composition API. The design is stripped down to just text output, keeping attention on fundamental concepts.
 </p>
 
 ### Built With
@@ -52,7 +52,7 @@
 ## Getting Started
 
 <p>
-    Users can experiment with Vue 3 Composition API through text-based interactions in both a browser and console environment, making it easier to grasp fundamental concepts.
+    Users can experiment with Vue 3 Composition API features in a pure text-based layout, ideal for focused learning without UI complexity.
 </p>
 
 ### Prerequisites
