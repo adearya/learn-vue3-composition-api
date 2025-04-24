@@ -45,7 +45,7 @@
 </p>
 
 ### Built With
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff) <br />
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=for-the-badge) <br />
 <!-- add_built_with -->
 
 
